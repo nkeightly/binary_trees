@@ -637,7 +637,7 @@ Welcome to [1mUbuntu 16.04.5 LTS[0m!
 [   10.791884] cloud-init[1275]: Cloud-init v. 18.4-0ubuntu1~16.04.2 finished at Sat, 14 Sep 2019 18:31:46 +0000. Datasource DataSourceNoCloud [seed=/dev/sdb][dsmode=net].  Up 10.78 seconds
 [[0;32m  OK  [0m] Started Execute cloud user/final scripts.
 [[0;32m  OK  [0m] Reached target Cloud-init target.
-
+
 Ubuntu 16.04.5 LTS ubuntu-xenial ttyS0
 
 ubuntu-xenial login: 
